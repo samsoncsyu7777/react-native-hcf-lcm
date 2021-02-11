@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "hcfAndLcm",
+    "slug": "hcfAndLcm",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/hcfAndLcmIcon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/hcfSplash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -24,10 +24,12 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.owoows.quiz"
+      "package": "com.samsoncsyu.hcfandlcm",
+      "versionCode": 2,
+      "permissions": []
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/hcfAndLcmIcon.png"
     }
   }
 }
